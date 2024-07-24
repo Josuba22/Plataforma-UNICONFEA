@@ -62,6 +62,6 @@ Acreditamos no poder da tecnologia para transformar o Sistema CONFEA/CREA. Contr
 ---
 **Plano de Negócios:** Conheça nosso Plano de Negócios https://docs.google.com/document/d/16EctDvaN1Sv91SuQY7etDOzGCh22DQO7dh5OBADWnk0/edit#heading=h.x20b796o3hos.
 
-**Desenvolvido com ❤ por:** Tarug, Dalila, Josué e Giovanna.
+**Desenvolvido por:** Tarug, Dalila, Josué e Giovanna.
 
 **Dica:** Acesse nosso Roadmap [LINK PARA ROADMAP] para saber mais sobre as próximas etapas do projeto! 😉

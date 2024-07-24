@@ -64,4 +64,6 @@ Acreditamos no poder da tecnologia para transformar o Sistema CONFEA/CREA. Contr
 
 **Desenvolvido por:** Tarug, Dalila, Josué e Giovanna.
 
+**Prototipação Figma:** Acesse o Figma com a prototipação do projeto - https://www.figma.com/proto/w2k2hvyJN72jIp37WVmHP0/Untitled?t=3GrZkfa841r4IALj-1&node-id=59-35&starting-point-node-id=12%3A2
+
 **Dica:** Acesse nosso Roadmap [LINK PARA ROADMAP] para saber mais sobre as próximas etapas do projeto! 😉

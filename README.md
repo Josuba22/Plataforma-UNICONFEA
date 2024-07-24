@@ -1,45 +1,66 @@
 # Plataforma-UNICONFEA
-UNICONFEA: plataforma unificada que centraliza e simplifica os serviços do sistema CONFEA/CREA. Oferece emissão de ARTs, gestão de dados profissionais, comunicação entre profissionais e CREAs e acesso a serviços da Mútua. Promove eficiência, transparência e acessibilidade para todos! 🇧🇷
+Plataforma unificada que centraliza e simplifica os serviços do sistema CONFEA/CREA. Oferece emissão de ARTs, gestão de dados profissionais, comunicação entre profissionais e CREAs e acesso a serviços da Mútua. Promove eficiência, transparência e acessibilidade para todos! 🇧🇷
 
-## 🚀 UNICONFEA: Unificando o Sistema CONFEA/CREA! 🇧🇷
+#  UNICONFEA 🚀 - Plataforma Unificada CONFEA/CREA 
 
 [![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](https://github.com/seunomedeusuario/UNICONFEA)
-[![Licença](https://img.shields.io/badge/Licença-MIT-green)](https://opensource.org/licenses/MIT)
+[![Licença](https://img.shields.io/badge/Licença-None-red)](https://choosealicense.com/no-permission/)
 
-👋 Cansado da burocracia e da falta de praticidade nos serviços do CONFEA/CREA?  Apresentamos o **UNICONFEA**, a plataforma digital que veio para revolucionar a maneira como profissionais, Conselhos Regionais e a Mútua se conectam!
+👋 Cansado da burocracia e da falta de praticidade nos serviços do Sistema CONFEA/CREA?  
 
-## ✨  Nosso Objetivo:
+ Apresentamos a **UNICONFEA**, a plataforma digital que vai revolucionar a interação entre **profissionais**, **CREAs** e a **Mútua**! 🤝
 
-Criar uma solução unificada, transparente e eficiente para:
+## ✨ Nosso Objetivo
 
-* **Emitir ARTs de forma rápida e descomplicada.** 💨
-* **Gerenciar seus dados profissionais com facilidade.** 🗄️
-* **Se comunicar diretamente com o CREA e a Mútua.** 💬
-* **Acessar serviços e benefícios de forma prática.**  ⭐
+Criar uma solução unificada e intuitiva para:
 
-## 💪  Construído com:
+* **Emitir ARTs de forma rápida e fácil** ⚡️
+* **Gerenciar dados profissionais com praticidade** 🗄️
+* **Facilitar a comunicação entre as partes** 💬
+* **Acessar os serviços da Mútua de forma integrada** 💰
+
+## 🚀 Tecnologias que nos impulsionam
 
 * **Backend:** Node.js, Express.js
-* **Frontend:** React.js, HTML5, CSS3
+* **Frontend:** React.js, HTML5, CSS3 e JS
 * **Banco de Dados:** PostgreSQL
-* **Segurança:** OAuth 2.0, HTTPS, criptografia de dados
+* **Autenticação:** OAuth 2.0
+* **Segurança:** HTTPS, criptografia de dados
 
-## 💻  Rodando o Projeto:
+## 🧑‍💻 Como Rodar o Projeto
 
-1. Clone o repositório: `git clone https://github.com/seunomedeusuario/UNICONFEA.git`
-2. Acesse o diretório: `cd UNICONFEA`
-3. Siga as instruções detalhadas no arquivo [README.md](README.md).
+**Confira o passo a passo detalhado na nossa Wiki!**  ➡️ [LINK PARA A WIKI]
 
-## 🤝  Junte-se a nós!
+## 💪 Conheça os benefícios
 
-Acreditamos no poder da comunidade para construir um futuro melhor para a Engenharia, Agronomia e Geociências no Brasil. Contribua com o UNICONFEA:
+**Para Profissionais:**
 
-* **Compartilhe suas ideias:**  💡 Abra uma issue e conte para a gente!
-* **Reporte bugs:** 🐛  Ajude-nos a tornar a plataforma ainda melhor!
-* **Envie seu código:**  💻 Faça um fork do repositório e mostre sua expertise!
+* **Emissão de ARTs simplificada e centralizada.**
+* **Gestão de dados profissional prática e acessível.**
+* **Comunicação direta e transparente com o CREA e a Mútua.**
+* **Histórico completo de atividades e documentos.**
 
-##  🚀 Vamos juntos construir o futuro do Sistema CONFEA/CREA! 🇧🇷 
+**Para CREAs:**
+
+* **Gestão de registros profissionais otimizada.**
+* **Fiscalização de ARTs mais eficiente.**
+* **Comunicação facilitada com profissionais e a Mútua.**
+* **Relatórios e dashboards completos para tomada de decisão.**
+
+**Para a Mútua:**
+
+* **Gestão de benefícios facilitada.**
+* **Comunicação direta e personalizada com os profissionais.**
+* **Oferta de serviços e produtos direcionados.**
+
+## 💡 Junte-se a nós!
+
+Acreditamos no poder da tecnologia para transformar o Sistema CONFEA/CREA. Contribua com o UNICONFEA e faça parte dessa revolução! 
+
+**Vamos construir juntos o futuro da Engenharia, Agronomia e Geociências no Brasil!** 🇧🇷 
 
 ---
 
 **Desenvolvido com ❤️ por:** Tarug, Dalila, Josué e Giovanna.
+
+**Dica:** Acesse nosso Roadmap [LINK PARA ROADMAP] para saber mais sobre as próximas etapas do projeto! 😉

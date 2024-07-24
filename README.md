@@ -61,6 +61,6 @@ Acreditamos no poder da tecnologia para transformar o Sistema CONFEA/CREA. Contr
 
 ---
 
-**Desenvolvido com ❤️ por:** Tarug, Dalila, Josué e Giovanna.
+**Desenvolvido com ## ❤️ por:** Tarug, Dalila, Josué e Giovanna.
 
 **Dica:** Acesse nosso Roadmap [LINK PARA ROADMAP] para saber mais sobre as próximas etapas do projeto! 😉

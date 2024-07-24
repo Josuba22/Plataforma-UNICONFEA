@@ -60,6 +60,7 @@ Acreditamos no poder da tecnologia para transformar o Sistema CONFEA/CREA. Contr
 **Vamos construir juntos o futuro da Engenharia, Agronomia e Geociências no Brasil!** 🇧🇷 
 
 ---
+**Plano de Negócios:** Conheça nosso Plano de Negócios [https://docs.google.com/document/d/16EctDvaN1Sv91SuQY7etDOzGCh22DQO7dh5OBADWnk0/edit#heading=h.x20b796o3hos].
 
 **Desenvolvido com ❤ por:** Tarug, Dalila, Josué e Giovanna.
 
